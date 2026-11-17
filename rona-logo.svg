@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="RONA Stores logo">
+ <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c7f17b"/><stop offset="1" stop-color="#65b84a"/></linearGradient></defs>
+ <rect x="4" y="4" width="152" height="152" rx="36" fill="url(#g)"/>
+ <path d="M78 18C58 24 45 40 45 59c0 13 7 23 19 28-4-14 1-29 14-40 8-7 17-11 27-12-6-9-16-15-27-17Z" fill="#efffd5"/>
+ <path d="M80 42c-18 0-31 13-31 30 0 15 11 26 27 26h13c16 0 27-11 27-26 0-17-14-30-36-30Z" fill="#123b29"/>
+ <path d="M64 57h36l-5 7H69l-2 7h26l-5 7H65l-2 7h27" fill="none" stroke="#b8ed70" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M109 75h23l-5 20h-20l-5-28h-8" fill="none" stroke="#123b29" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="111" cy="103" r="4" fill="#123b29"/><circle cx="127" cy="103" r="4" fill="#123b29"/>
+ <text x="80" y="127" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="900" letter-spacing="2" fill="#123b29">RONA</text>
+ <text x="80" y="144" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="800" letter-spacing="3" fill="#123b29">STORES</text>
+</svg>
